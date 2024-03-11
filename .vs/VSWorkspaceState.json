@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\StockApp",
-    "\\StockApp\\StockApp.Domain"
+    "\\StockApp\\StockApp.Domain",
+    "\\StockApp\\StockApp.WebUI"
   ],
+  "SelectedNode": "\\StockApp\\StockApp.WebUI\\StockApp.WebUI.csproj",
   "PreviewInSolutionExplorer": false
 }
